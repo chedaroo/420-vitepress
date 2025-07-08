@@ -5,21 +5,12 @@ layout: home
 hero:
   name: "420 Wales"
   text: "Peace, Love, Unity, Respect"
-  tagline: My great project tagline
+  tagline: Join us for a weekend of fun in the sun
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Get Tickets Now
+      link: https://buytickets.at/420/1773846
     - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: FAQ
+      link: /faq
 ---
-
