@@ -3,14 +3,14 @@
 layout: home
 
 hero:
-  name: "420 Wales"
-  text: "Peace, Love, Unity, Respect"
-  tagline: Join us for a weekend of fun in the sun
+  name: "420"
+  text: "Fri 8th - Sun 8th August 2025"
+  tagline: Join us for a weekend of fun in the sun!
   actions:
     - theme: brand
       text: Get Tickets Now
-      link: https://buytickets.at/420/1773846
+      link: /tickets
     - theme: alt
-      text: FAQ
-      link: /faq
+      text: What's On
+      link: /whats-420
 ---

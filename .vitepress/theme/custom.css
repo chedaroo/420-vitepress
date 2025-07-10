@@ -1,0 +1,74 @@
+:root {
+  --420-font-family: "DynaPuff";
+
+  --420-hero-font-size: 4rem;
+  --420-hero-line-height: 1;
+
+  --420-doc-h1-font-size: 2rem;
+  --420-doc-h1-line-height: 1.25;
+  --420-doc-h1-margin-bottom: 0.5em;
+}
+
+@media (min-width: 640px) {
+  :root {
+    --420-hero-font-size: 6rem;
+
+    --420-doc-h1-font-size: 3rem;
+  }
+}
+
+@media (min-width: 960px) {
+  :root {
+    --420-hero-font-size: 10rem;
+
+    --420-doc-h1-font-size: 4rem;
+  }
+}
+
+.VPNav {
+  font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.VPHero .name {
+  font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  font-size: var(--420-hero-font-size);
+  line-height: var(--420-hero-line-height);
+}
+
+.VPHero .name {
+  background-color: var(--vp-home-hero-name-color);
+  background-image: linear-gradient(
+    180deg,
+    var(--vp-c-red-1),
+    var(--vp-c-yellow-1),
+    var(--vp-c-green-1)
+  );
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
+.vp-doc h1,
+.vp-doc h2,
+.vp-doc h3,
+.vp-doc h4,
+.vp-doc h5,
+.vp-doc h6 {
+  font-family: var(--420-font-family);
+}
+
+.vp-doc h1 {
+  font-size: var(--420-doc-h1-font-size);
+  line-height: var(--420-doc-h1-line-height);
+  margin-bottom: var(--420-doc-h1-margin-bottom);
+}
