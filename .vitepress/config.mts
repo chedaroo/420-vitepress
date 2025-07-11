@@ -24,7 +24,7 @@ export default defineConfig({
     ],
   ],
   title: "420 Wales",
-  description: "Peace, Love, Unity, Respect",
+  description: "420 Wales - Friday 8th / Sunday 10th August 2025",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
