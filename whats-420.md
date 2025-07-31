@@ -16,7 +16,7 @@ Not to mention the late night, limbo, bonfires and dancing through into the earl
 
 ## 🥳 So is 420 another birthday party?
 
-Yes and no. Truthfully, last years birthday party was more of a trial run for 420.
+Yes and no. In reality, last years birthday party was more of a trial run for 420.
 
 It is still the same month as my birthday, so feel free to shower me with gifts.
 

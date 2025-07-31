@@ -4,9 +4,7 @@ title: Tickets
 
 # Tickets
 
-As much as we would love to fully bankroll the whole thing like last years party, it just isn't sustainable long term.
-
-That said, we strongly believe 420 should be affordable for all, price should stop anyone from attending.
+I strongly believe 420 should be affordable for all, price should stop anyone from attending.
 
 An adult ticket will grant admission for the full weekend and includes camping.
 
