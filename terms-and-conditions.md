@@ -9,8 +9,9 @@ These Terms & Conditions apply to all tickets sold for 420 Wales via Ticket Tail
 ## 🎟️ Tickets
 
 - All tickets must be purchased in advance via Ticket Tailor.
-- Tickets are non-refundable, I need the money for hookers and blow, but can be transferred – just drop us a message and we’ll sort it.
-- Your ticket includes access to the full weekend from Friday 8th to Sunday 10th August 2025, with on-site camping and activities included.
+- Tickets are non-refundable, I need the money for hookers and blow.
+- Tickets may be transferred – just drop us a message and we’ll sort it.
+- Your ticket includes access to the full weekend from Friday 8th to Sunday 10th August 2025, with on-site camping and activities.
 
 ## 🧒 Family & Age Policy
 
@@ -24,7 +25,7 @@ These Terms & Conditions apply to all tickets sold for 420 Wales via Ticket Tail
 ## 🏕️ Camping & Site Rules
 
 - Camping is included – tents, vans, all welcome, please select the relevant pass with you ticket so we can plan for numbers.
-- Please respect quiet zones, your fellow campers, and the land.
+- Please respect your fellow campers, and the land.
 - No fires outside of designated areas.
 - No glass on site – it’s a field, and we’d like to keep everyone barefoot-friendly.
 - Animals - Our cat will be on site, along with some friendly elderly dogs. These animals are already familiar with the venue and I have no concerns with them meeting new people.
@@ -57,7 +58,7 @@ These Terms & Conditions apply to all tickets sold for 420 Wales via Ticket Tail
   - Anyone found dealing or behaving dangerously under the influence will be asked to leave, no refund.
   - If you or someone you’re with feels unwell, let a steward or organiser know — no judgement, just help. We care more about your safety than your choices.
 - Please look after yourself and your mates. Stay hydrated, know your limits, and remember: the best buzz comes from good music, being surrounded by nature, and by legends.
-- If you have further questions, you can always (talk to Frank)[https://www.talktofrank.com/]
+- If you have further questions, you can always [talk to Frank](https://www.talktofrank.com/)
 
 ## 🌦️ Weather & Cancellations
 
@@ -68,18 +69,18 @@ These Terms & Conditions apply to all tickets sold for 420 Wales via Ticket Tail
 
 ## ♿ Accessibility
 
-- The site is in a field and has uneven ground.
+- The venue is in a field and has uneven ground.
 - If you have accessibility needs, please contact me directly to discuss how we can accommodate you.
 
 ## 🔐 Data & Privacy
 
-- For info on how your data is used, please see our privacy policy on Ticket Tailor’s website.
+- For info on how your data is used, please see our [privacy policy](https://www.tickettailor.com/promoter/privacy-policy/link/420) on Ticket Tailor’s website.
 
 ## 📸 Media & Photography
 
 - We may capture photos or videos for promotional use.
 - If you don’t want to appear in any media, let us know at the gate and we’ll do our best to avoid it.
-- We will always seek consent before posting any images publicly online
+- We will always seek consent before posting any images publicly online.
 
 ## 💬 Final Word
 
