@@ -25,6 +25,20 @@
   }
 }
 
+.VPContent.is-home {
+  background-image: url("rhysgog-vista.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
+.VPHome {
+  background-image: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.9),
+    rgba(0, 0, 0, 0)
+  );
+}
+
 .VPNav {
   font-family: "DynaPuff", system-ui;
   font-optical-sizing: auto;
