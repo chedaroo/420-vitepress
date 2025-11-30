@@ -1,4 +1,5 @@
 import { Content, defineConfig } from "vitepress";
+import { embed } from "@mdit/plugin-embed";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -44,4 +45,18 @@ export default defineConfig({
       copyright: "Copyright © 2025 - 420 Wales",
     },
   },
+  markdown: {
+    
+    config: (md) => {
+      md.use(embed, {
+        config: [
+          {
+            name: "openstreetmap",
+            setup: (src: string) => `<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?${src}"></iframe>`
+          },
+        ],
+      });
+    },
+  },
 });
+
