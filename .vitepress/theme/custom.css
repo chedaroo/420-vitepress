@@ -26,7 +26,7 @@
 }
 
 .VPContent.is-home {
-  background-image: url("rhysgog-vista.jpeg");
+  background-image: url("/rhysgog-vista.jpeg");
   background-size: cover;
   background-position: center;
 }
