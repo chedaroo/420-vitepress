@@ -11,7 +11,7 @@ These Terms & Conditions apply to all tickets sold for 420 Wales via Ticket Tail
 - All tickets must be purchased in advance via Ticket Tailor.
 - Tickets are non-refundable, I need the money for hookers and blow.
 - Tickets may be transferred – just drop us a message and we’ll sort it.
-- Your ticket includes access to the full weekend from Friday 8th to Sunday 10th August 2025, with on-site camping and activities.
+- Your ticket includes access to the full weekend from Friday 7th to Monday 10th August 2026, with on-site camping and activities.
 
 ## 🧒 Family & Age Policy
 

@@ -38,7 +38,7 @@ Rhysgog Farm, is nestled in the Dee valley, just outside Llangollen and I am ver
 
 The epic Welsh vistas along with it's handy location and features make it the perfect venue to host 420.
 
-This year, the event will run the full course of the weekend, Friday 8th to Sunday 10th of August.
+This year, the event will run the full course of the weekend, Friday 7th to Monday 10th of August 2026.
 
 You are encouraged to camp over, we have plenty of space for tents/vans. We also have campsite style facilities. There is also the Chainbridge hotel 1km away should you want to splurge.
 

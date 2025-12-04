@@ -24,8 +24,9 @@ export default defineConfig({
       },
     ],
   ],
+  lang: "en-GB",
   title: "420 Wales",
-  description: "420 Wales - Friday 8th / Sunday 10th August 2025",
+  description: "420 Wales - Friday 7th / Monday 10th August 2026",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -42,7 +43,7 @@ export default defineConfig({
 
     footer: {
       message: "Peace, Love, Unity, Respect",
-      copyright: "Copyright © 2025 - 420 Wales",
+      copyright: "Copyright © 2024-present | 420 Wales",
     },
   },
   markdown: {
