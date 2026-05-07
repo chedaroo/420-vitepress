@@ -5,7 +5,7 @@
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {
-    "vitepress": "^2.0.0-alpha.15"
+    "vitepress": "^2.0.0-alpha.17"
   },
   "dependencies": {
     "@mdit/plugin-embed": "^0.23.0",
