@@ -7,6 +7,18 @@
   --420-doc-h1-font-size: 2rem;
   --420-doc-h1-line-height: 1.25;
   --420-doc-h1-margin-bottom: 0.5em;
+
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(
+    180deg,
+    var(--vp-c-red-1),
+    var(--vp-c-yellow-1),
+    var(--vp-c-green-1)
+  );
+  --vp-home-hero-image-background-image:
+    linear-gradient(135deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0) 50%),
+    linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0) 70%),
+    url("/rhysgog-vista.jpeg");
 }
 
 @media (min-width: 640px) {
@@ -23,20 +35,6 @@
 
     --420-doc-h1-font-size: 4rem;
   }
-}
-
-.VPContent.is-home {
-  background-image: url("/rhysgog-vista.jpeg");
-  background-size: cover;
-  background-position: center;
-}
-
-.VPHome {
-  background-image: linear-gradient(
-    180deg,
-    rgba(0, 0, 0, 0.9),
-    rgba(0, 0, 0, 0)
-  );
 }
 
 .VPNav {
@@ -57,19 +55,8 @@
   line-height: var(--420-hero-line-height);
 }
 
-.VPHero .name {
-  background-color: var(--vp-home-hero-name-color);
-  background-image: linear-gradient(
-    180deg,
-    var(--vp-c-red-1),
-    var(--vp-c-yellow-1),
-    var(--vp-c-green-1)
-  );
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
+.VPHero .tagline {
+  color: var(--vp-c-text-1);
 }
 
 .vp-doc h1,

@@ -4,13 +4,13 @@ layout: home
 
 hero:
   name: "420"
-  text: "Fri 7th - Monday 10th August 2026"
-  tagline: Join us for a weekend of fun in the sun!
+  text: "Fri 7<sup>th</sup> - Mon 10<sup>th</sup> August 2026"
+  tagline: A weekend of fun in the sun!
   actions:
     - theme: brand
       text: Get Tickets Now
       link: /tickets
     - theme: alt
-      text: What's 420?
+      text: Find out more
       link: /whats-420
 ---

@@ -1,4 +1,5 @@
-import { Content, defineConfig } from "vitepress";
+import { fileURLToPath, URL } from "node:url";
+import { defineConfig } from "vitepress";
 import { embed } from "@mdit/plugin-embed";
 
 // https://vitepress.dev/reference/site-config
@@ -42,22 +43,33 @@ export default defineConfig({
     ],
 
     footer: {
-      message: "Peace, Love, Unity, Respect",
+      message: "A weekend of fun in the sun!",
       copyright: "Copyright © 2024-present | 420 Wales",
     },
   },
   markdown: {
-    
     config: (md) => {
       md.use(embed, {
         config: [
           {
             name: "openstreetmap",
-            setup: (src: string) => `<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?${src}"></iframe>`
+            setup: (src: string) =>
+              `<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?${src}"></iframe>`,
           },
         ],
       });
     },
   },
+  vite: {
+    resolve: {
+      alias: [
+        {
+          find: /^.*\/VPHome\.vue$/,
+          replacement: fileURLToPath(
+            new URL("./theme/components/CustomVPHome.vue", import.meta.url),
+          ),
+        },
+      ],
+    },
+  },
 });
-
