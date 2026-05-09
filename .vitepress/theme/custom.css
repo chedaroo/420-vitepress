@@ -42,7 +42,7 @@
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;
-  font-variation-settings: "wdth" 100;
+  font-variation-settings: "width" 100;
 }
 
 .VPHero .name {
@@ -50,7 +50,7 @@
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;
-  font-variation-settings: "wdth" 100;
+  font-variation-settings: "width" 100;
   font-size: var(--420-hero-font-size);
   line-height: var(--420-hero-line-height);
 }

@@ -12,5 +12,5 @@ hero:
       link: /tickets
     - theme: alt
       text: Find out more
-      link: /whats-420
+      link: /whats-on
 ---

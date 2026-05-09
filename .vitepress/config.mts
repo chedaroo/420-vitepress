@@ -31,7 +31,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "What's 420?", link: "/whats-420" },
+      { text: "What's On?", link: "/whats-on" },
       { text: "Tickets", link: "/tickets" },
       { text: "Merch", link: "/merch" },
       { text: "FAQ", link: "/faq" },
@@ -43,7 +43,6 @@ export default defineConfig({
     ],
 
     footer: {
-      message: "A weekend of fun in the sun!",
       copyright: "Copyright © 2024-present | 420 Wales",
     },
   },
