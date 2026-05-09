@@ -1,87 +1,77 @@
 ---
-title: What's 420?
+title: What's on?
 ---
 
-# 🌿 What’s 420?
+# What's on?
 
-## 🎂 Cheda's Big Birthday Bash 2024
+Come join us for a knee's up at my home near Llangollen, Rhysgog Farm.
 
-Many of you reading this will know that last year I threw a birthday party over the August bank holiday.
+Nestled in the Dee valley, it's handy location, awesome features and epic vistas, make it an ideal venue for a party.
 
-Those of you who were able to join us can attest that we had an awesome weekend.
+This year, the event will run the full course of the weekend, *Friday 7th to Monday 10th of August 2026*.
 
-Highlights include swimming in the river, relaxation on the lawn, the impromptu Kubb and Volleyball tournaments.
+## ☀️ Day
 
-Not to mention the late night, limbo, bonfires and dancing through into the early hours of the morning.
+During the day, you are encouraged to use us as a base to explore North Wales. Whether you're into climbing, riding, paddling, walking, running or even just boozing in pubs, there's loads to do.
 
-## 🥳 So is 420 another birthday party?
+For those who would prefer to stay on site there will be games, activities, music and opportunity to play in the river.
 
-Yes and no. In reality, last years birthday party was more of a trial run for 420.
+## 🌙 Night
 
-It is still the same month as my birthday, so feel free to shower me with gifts.
+At night, it's party time! The barn will be filled with decor, lighting, music and dancing into the small hours. There will of course be the obligatory campfire.
 
-## 🤨 Okay, so what is 420 about?
+## ⛺️ Accommodation
 
-Growing up, I was fortunate to find myself in the company of some truly wonderful friends. They were kind, loyal and generous with their time.
+Stay over, we have plenty of space for tents/vans, there's standard campsite facilities. Don't like camping, the Chainbridge hotel is in easy walking distance (~1.2km).
 
-We loved to party, be it birthdays, gigs, festivals, wakes or weddings. Any excuse, any event, count us in, we were down.
+## 🍺 Food & Drink
 
-Fast forward a couple of decades and I have enjoyed many more, arguably too many and have met more wonderful people along the way.
+Please feel free to bring food or drink with you (no glass).
 
-My vision for 420 is to celebrate you all by inviting you to join us.
+However, there will be a reasonably priced licensed bar with ice cold draft beer, cider and spirits.
 
-## 😃 Awesome, so what will that look like?
-
-Broad stokes, every 2nd weekend of August I'll be inviting you all to join me at my home in Wales.
-
-Rhysgog Farm, is nestled in the Dee valley, just outside Llangollen and I am very fortunate to be able to call it my home.
-
-The epic Welsh vistas along with it's handy location and features make it the perfect venue to host 420.
-
-This year, the event will run the full course of the weekend, Friday 7th to Monday 10th of August 2026.
-
-You are encouraged to camp over, we have plenty of space for tents/vans. We also have campsite style facilities. There is also the Chainbridge hotel 1km away should you want to splurge.
-
-Each day there will be loads of games and activities, music and opportunity to play in the river.
-
-Each night there will be the obligatory campfire and the barn will be filled with decor, lighting and DJ's pumping to the early hours.
-
-Those of you who like a drink are welcome to bring you're own, but there will also be a licensed bar with draft beer, cider and spirits at sensible pub prices, not festival prices.
-
-There will also be some food. I'm not sure exactly what this will be as yet, keep an eye out for updates nearer the time.
-
-I'm expecting this year's turn out to be similar to last year, 75 - 125 people.
-
-I'm hoping to grow by 50 - 100 people each year so that by 2029, when I'm 42, we should have ourselves a most excellently curated little shindig with roughly 420 guests, belter!
+There will also be food in the evening. I'm not sure exactly what this will be as yet, last year there was burgers and brats (plus vegan versions), the year before was beef chilli (plus vegan version).
 
 ## 👶 Family Friday
 
-I have a family, I love them very much, I'm very proud and I want you to meet them.
+I have a family, most of you have met them, I am very proud of them, I love them very much.
 
-And if you have a family I want to and can't wait to meet them too, a bunch of mini you's, awesome!
+If you have a family I'd love to meet them too, a bunch of mini you's, awesome!
 
 Friday is the day to do this, everything planed will be suitable for all, including the evening entertainment.
 
-Saturday onwards however will be a child free, this may change in future years but for now this is the way.
+## 💪 Sprog Free Saturday
 
-If you plan to stay for the main party Saturday night then you will need to find off site childcare from Saturday morning onwards.
+Some things are better without kids, relaxing is one of them.
+
+If you've brought your family but plan to stay for the main party on Saturday night then you will need to find a friend or grandparent to drop them of with or come pick them up before the evening.
+
+This may change in future years but for now this is the way.
+
+I'm keen for feedback on this system so if you have any please let me know, I'm all ears...
+
+## 🎟️ Tickets
+
+As much as we would love to bankroll the whole thing, it just isn't sustainable year on year.
+
+So to come you'll need a super duper reasonably priced [ticket](/tickets).
+
+All tickets include camping and full use of the facilities, it's cheaper than any other local campsite plus it's a party too!
+
+If you still really can't afford a ticket, please message us and we'll work something out.
+
+**Please don't wait, get ticket's as early as you can.**
+
+It really helps us plan, budget, etc. when we know who's coming in advance. Thank you ☺️
 
 ## 🤩 This all sounds great, anything else?
 
 There is a WhatsApp community set up [here](https://chat.whatsapp.com/L4TlA1kxRngAwGHuwQ7b8P?mode=ac_c), please join it for further updates.
 
-Don't fret, I'm pretty hopeless with messaging so you won't be spammed with announcements.
-
-If you would like to volunteer to help with set up, run an activity, perform, photography, DJ, help with pack down or anything else, there is set up under the [WhatsApp community](https://chat.whatsapp.com/L4TlA1kxRngAwGHuwQ7b8P?mode=ac_c).
-
-As much as I would love to bankroll the whole thing like last years party, it just isn't sustainable long term.
-
-So to come you'll need super reasonably priced [ticket](/tickets).
-
-It's cheaper than a night out but if you really can't afford it message me and we will work something out.
+If you would like to volunteer to help with set up, run an activity, perform, photography, DJ, help with pack down or anything else, there is a group set up under the [WhatsApp community](https://chat.whatsapp.com/L4TlA1kxRngAwGHuwQ7b8P?mode=ac_c).
 
 I look forward to seeing you all soon.
 
-Peace, love, unity and respect,
+Peace and love
 
 Cheda xxx
