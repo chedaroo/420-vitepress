@@ -4,13 +4,9 @@ title: Tickets
 
 # Tickets
 
-I strongly believe 420 should be affordable for all, price should stop anyone from attending.
-
-An adult ticket will grant admission for the full weekend and includes camping.
-
 Family Friday is free for kids and heavily reduced for teens.
 
-Saturday onwards is 18+ only, children must be off site Saturday morning latest, be sure to arrange childcare if you plan to stay the duration.
+Saturday onwards is 18+ only, children must be off site Saturday lunchtime latest, be sure to arrange off site childcare if you plan to stay the duration.
 
 Any question please check out the [FAQ](/faq) or if you're still none the wiser [contact us](https://www.tickettailor.com/promoter/contact-form/420).
 
