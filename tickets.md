@@ -4,11 +4,14 @@ title: Tickets
 
 # Tickets
 
-Family Friday is free for kids and heavily reduced for teens.
+**Adult tickets** cover the full weekend, including camping.
 
-Saturday onwards is 18+ only, children must be off site Saturday lunchtime latest, be sure to arrange off site childcare if you plan to stay the duration.
+**Kids & teen tickets** cover Friday and Saturday, with Friday night camping included. All under-18s must leave the site by Saturday afternoon.
 
-Any question please check out the [FAQ](/faq) or if you're still none the wiser [contact us](https://www.tickettailor.com/promoter/contact-form/420).
+> **18+ only from Saturday afternoon onwards.**  
+> Families staying Saturday night will need to arrange off-site childcare in advance.
+
+Got questions? Visit the [FAQ](/faq) or [get in touch](https://www.tickettailor.com/promoter/contact-form/420).
 
 <br>
 
