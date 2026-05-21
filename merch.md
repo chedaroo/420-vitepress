@@ -4,23 +4,19 @@ title: Merchandise
 
 # Merchandise
 
-We believe 420 events should be affordable for all, hence our low admission prices.
+### Limited edition 2026 merch
 
-But if you can and want to contribute more, then please, buy some...
+All merch is branded and limited edition — and the design? A super secret mystery. Exciting stuff.
+
+**No delivery fee** — just collect your order when you arrive.
+
+We print to order only. Less waste, lower prices, save the turtles!
+
+**Sales close mid July** so our local printers have time to prepare the batch — don't miss out.
+
+Get your wallets out and oin the cult, sheeple!!!
 
 ![An image](/schwag.gif)
-
-All merch is 420 branded and limited edition for 2025.
-
-The design is a super secret mystery, exciting stuff!
-
-No delivery fee, you'll collect you order on arrival.
-
-We're only printing to order, this avoiding wastage, keeps prices lower and probably saves a turtle or two.
-
-Sales will close 31st of July, this give our local printers time to prepare the batch order.
-
-Get your wallets out sheeple, join the 420 cult!
 
 <!-- Ticket Tailor Widget. Paste this into your website where you want the widget to appear. Do not change the code or the widget may not work properly. -->
 <div class="tt-widget">
@@ -33,7 +29,7 @@ Get your wallets out sheeple, join the 420 cult!
         data-url="https://www.tickettailor.com/checkout/new-session/store/60341/chk/dc90?ref=website_store_widget"
         data-inline-minimal="true"
         data-inline-show-logo="false"
-        data-inline-bg-fill="false"
+        data-inline-bg-fill="true"
         data-inline-inherit-ref-from-url-param=""
         data-inline-ref="website_store_widget">
     </component>
