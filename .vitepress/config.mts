@@ -73,5 +73,9 @@ export default defineConfig({
         },
       ],
     },
+    build: {
+      // Forces Vite to empty the outDir on build so dead assets aren't tracked
+      emptyOutDir: true,
+    },
   },
 });
