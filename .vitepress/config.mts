@@ -46,6 +46,9 @@ export default defineConfig({
       copyright: "Copyright © 2024-present | 420 Wales",
     },
   },
+  router: {
+    prefetchLinks: false,
+  },
   markdown: {
     config: (md) => {
       md.use(embed, {
