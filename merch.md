@@ -6,15 +6,13 @@ title: Merchandise
 
 ### Limited edition 2026 merch
 
-All merch is branded and limited edition — and the design? A super secret mystery. Exciting stuff.
+This years shirts are black with a white screen print. The design is a surprise and unique to this year. Exciting stuff!
 
-**No delivery fee** — just collect your order when you arrive.
+**Printed to order** — less waste, lower prices, save the turtles!
 
-We print to order only. Less waste, lower prices, save the turtles!
+**No delivery fee** — printed locally, just collect your order when you arrive.
 
-**Sales close mid July** so our local printers have time to prepare the batch — don't miss out.
-
-Get your wallets out and oin the cult, sheeple!!!
+**Sales close July 22th** — we need time to print, don't miss out, order now!
 
 ![An image](/schwag.gif)
 
@@ -34,3 +32,5 @@ Get your wallets out and oin the cult, sheeple!!!
         data-inline-ref="website_store_widget">
     </component>
 </div><!-- End of Ticket Tailor Widget -->
+
+<a href="https://www.tickettailor.com/checkout/new-session/store/60341/chk/dc90?ref=website_store_widget" target="_blank">Click here to open shop if widget loading fails..</a>
