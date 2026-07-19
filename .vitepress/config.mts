@@ -29,6 +29,7 @@ export default defineConfig({
   title: "420 Wales",
   description: "420 Wales - Friday 7th / Monday 10th August 2026",
   cleanUrls: true,
+  lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
