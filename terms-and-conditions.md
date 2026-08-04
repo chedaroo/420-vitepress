@@ -9,7 +9,7 @@ These Terms & Conditions apply to all tickets sold for 420 Wales via Ticket Tail
 ## 🎟️ Tickets
 
 - All tickets must be purchased in advance via Ticket Tailor.
-- Tickets are non-refundable, I need the money for hookers and blow.
+- Tickets are non-refundable, I already spent the money on hookers and blow.
 - Tickets may be transferred – just drop us a message and we’ll sort it.
 - Your ticket includes access to the full weekend from Friday 7th to Monday 10th August 2026, with on-site camping and activities.
 
@@ -19,15 +19,15 @@ These Terms & Conditions apply to all tickets sold for 420 Wales via Ticket Tail
 - Kids must be supervised by their responsible adult at all times.
 - Teens must have their responsible adult on site at all times.
 - Responsible adults must be in a fit state to be responsible adults and contactable at all times, you know who you are.
-- From Saturday morning, the site becomes 18+ only.
-- Children must leave the site before midday if you’re staying for the weekend.
+- From Saturday afternoon, the site becomes 18+ only.
+- Children must leave the site before afternoon if you’re staying for the weekend.
 
 ## 🏕️ Camping & Site Rules
 
-- Camping is included – tents, vans, all welcome, please select the relevant pass with you ticket so we can plan for numbers.
+- Camping is included – tents, vans, all welcome
 - Please respect your fellow campers, and the land.
 - No fires outside of designated areas.
-- No glass on site – it’s a field, and we’d like to keep everyone barefoot-friendly.
+- No glass on site – it’s a field and we’d like to keep it barefoot-friendly.
 - Animals - Our cat will be on site, along with some friendly elderly dogs. These animals are already familiar with the venue and I have no concerns with them meeting new people.
 - If you have an animal you would like to bring, message me before the event to discuss.
 
@@ -57,13 +57,13 @@ These Terms & Conditions apply to all tickets sold for 420 Wales via Ticket Tail
   - Illegal substances are not permitted on site. This is private land, and we want to keep it safe and sustainable for future events.
   - Anyone found dealing or behaving dangerously under the influence will be asked to leave, no refund.
   - If you or someone you’re with feels unwell, let a steward or organiser know — no judgement, just help. We care more about your safety than your choices.
-- Please look after yourself and your mates. Stay hydrated, know your limits, and remember: the best buzz comes from good music, being surrounded by nature, and by legends.
+- Please look after yourself and your mates. Stay hydrated, know your limits, and remember: the best high comes from being surrounded by nature, good music and total legends.
 - If you have further questions, you can always [talk to Frank](https://www.talktofrank.com/)
 
 ## 🌦️ Weather & Cancellations
 
 - It’s Wales in August — check the wether before you set off and pack appropriately.
-- If we’re forced to cancel the event, you’ll may be offered a partial refund or rollover to next year.
+- If we’re forced to cancel the event, you’ll likely be offered a partial refund or rollover to next year.
 - No refunds for no-shows, hangovers, or drizzle.
 - You can transfer tickets, just let us know.
 
@@ -86,7 +86,7 @@ These Terms & Conditions apply to all tickets sold for 420 Wales via Ticket Tail
 
 If you think I've made a mistake or missed something please let me know.
 
-420 is a gathering of good humans, good tunes, and good times.
+This is a gathering of good humans, good music, and good fun.
 
 Peace, love, unity and respect,
 
