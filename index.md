@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "420"
-  text: "Fri 7<sup>th</sup> - Mon 10<sup>th</sup> August 2026"
+  text: "Fri 13<sup>th</sup> - Sun 15<sup>th</sup> August 2027"
   tagline: A weekend of fun in the sun!
   actions:
     - theme: brand

@@ -8,7 +8,7 @@ Come join us for a knees-up at my home near Llangollen, Rhysgog Farm.
 
 Nestled in the Dee valley, its handy location, awesome features and epic vistas make it an ideal venue for a party.
 
-This year, the event will run the full weekend — _Friday 7th to Monday 10th August 2026_.
+This year, the event will run the full weekend — _Friday 13th to Monday 15th August 2027_.
 
 ## ☀️ Day
 
